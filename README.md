@@ -1,3 +1,3 @@
-# TIimbu-cloud-shop
+# Timbu-cloud-shop
 
 A mini online store
